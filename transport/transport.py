@@ -3,7 +3,6 @@
 Create class Transport with several inheriting classes from him.
 """
 
-
 class Transport:
     """
     Create class Transport with parameters: moving_env, max_speed, type_of_fuel, year.
