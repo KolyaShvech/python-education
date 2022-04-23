@@ -2,6 +2,7 @@
 """
 Create class Transport with several inheriting classes from him.
 """
+
 class Transport:
     """
     Create class Transport with parameters: moving_env, max_speed, type_of_fuel, year.
@@ -313,6 +314,7 @@ class Plane(Transport):
         """
         Create staticmethod autopilot. This method turned on then height = 10000 m.
         """
+
         self.height= height
         if height == 10000:
             print(f"Now height {self.height} m and pilot turned on autopilot.")
