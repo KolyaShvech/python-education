@@ -9,124 +9,38 @@ CREATE TABLE Potential_customers(
 );
 -- Filled up table
 INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES ('1', 'alibaba@gmail.com', 'aliba', 'ba', 'semenovich', 'city 1');
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES ('2', 'vasya.tocha@gmail.com', 'vasya', 'tocha', 'nikolaevich', 'city2'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('3', 'senen.vopros@gmail.com', 'semen', 'vopros', 'prohorovich',	'city3'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('4',	'tamara.sbazara@gmail.com',	'tamara', 'sbazara', 'larionovna',	'city4'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('5',	'stas.unitas@gmail.com', 'stas', 'unitas',	'orestovich', 'city5'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('6',	'roman.karman@gmail.com',	'roman','karman',' petrovich','city6'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('7',	'anton.karton@gmail.com','anton','karton','zaharobich','city7'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('8',	'kolya.volya@gmail.com','kolya','volya','semenovich','city8'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('9',	'sergey.vorobey@gmail.com',	'sergey','vorobey',	'nikolaevich','city9'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('10','alla.toy@gmail.com','alla','toy','dmitpievna',	'city10'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('11','ira.svet@gmail.com','ira',	'svet',	'vasilevna','city11'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('12','artyr.obuza@gmail.com','artur','obuza','orestovich','city12'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('13',	'karina.dinamo@gmail.com',	'karina','dinamo',	'petrovna',	'city13'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('14','katya.koala@gmail.com','katya','koala','zaharovna','city14'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('15','julia.kot@gmail.com','julia','kot','leonidivna','city15'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('16','dima.duma@gmail.com','dima',	'duma',	'nikolaevich','city16'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('17','sasha.prostakvasha@gmail.com',	'sasha','prostakvasha',	'prohorovich','city17'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('18','denis.redis@gmail.com','denis','redis','Ilich','city18'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('19','ilia.karaul@gmail.com','ilia',	'karaul','orestovich','city19'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('20','alina.telega@gmail.com','alina','telega','leonidivna','city20'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('21','pasha.kasha@gmail.com','pasha','kasha','zaharovich','city21'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('22', 'vova.zilvova@gmail.com', 'vova', 'zilvova', 'semenovich', 'city22'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('23','vitya.salo@gmail.com',	'vitya','salo',	'nikolaevich',	'city23'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('24','marina.derevo@gmail.com',	'marina','derevo','prohorovna','city24'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('25','sveta.sever@gmail.com','sveta','sever','lukichna',	'city25'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('26','tolya.kabak@gmail.com','tolya','kabak','orestovich','city26'
-)
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('27','joni.cage@gmail.com',	'joni',	'cage',	'petrovich','city27'
-);
+    VALUES ('1', 'alibaba@gmail.com', 'aliba', 'ba', 'semenovich', 'city 1'),
+           ('2', 'vasya.tocha@gmail.com', 'vasya', 'tocha', 'nikolaevich', 'city2'),
+           ('3', 'senen.vopros@gmail.com', 'semen', 'vopros', 'prohorovich','city3'),
+           ('4','tamara.sbazara@gmail.com',	'tamara', 'sbazara', 'larionovna','city4'),
+           ('5','stas.unitas@gmail.com', 'stas', 'unitas',	'orestovich', 'city5'),
+           ('6','roman.karman@gmail.com',	'roman','karman',' petrovich','city6'),
+           ('7','anton.karton@gmail.com','anton','karton','zaharobich','city7'),
+           ('8','kolya.volya@gmail.com','kolya','volya','semenovich','city8'),
+           ('9','sergey.vorobey@gmail.com',	'sergey','vorobey',	'nikolaevich','city9'),
+           ('10','alla.toy@gmail.com','alla','toy','dmitpievna',	'city10'),
+           ('11','ira.svet@gmail.com','ira',	'svet',	'vasilevna','city11'),
+           ('12','artyr.obuza@gmail.com','artur','obuza','orestovich','city12'),
+           ('13','karina.dinamo@gmail.com',	'karina','dinamo',	'petrovna',	'city13'),
+           ('14','katya.koala@gmail.com','katya','koala','zaharovna','city14'),
+           ('15','julia.kot@gmail.com','julia','kot','leonidivna','city15'),
+           ('16','dima.duma@gmail.com','dima',	'duma',	'nikolaevich','city16'),
+           ('17','sasha.prostakvasha@gmail.com','sasha','prostakvasha',	'prohorovich','city17'),
+           ('18','denis.redis@gmail.com','denis','redis','Ilich','city18'),
+           ('19','ilia.karaul@gmail.com','ilia',	'karaul','orestovich','city19'),
+           ('20','alina.telega@gmail.com','alina','telega','leonidivna','city20'),
+           ('21','pasha.kasha@gmail.com','pasha','kasha','zaharovich','city21'),
+           ('22', 'vova.zilvova@gmail.com', 'vova', 'zilvova', 'semenovich', 'city22'),
+           ('23','vitya.salo@gmail.com',	'vitya','salo',	'nikolaevich',	'city23'),
+           ('24','marina.derevo@gmail.com',	'marina','derevo','prohorovna','city24'),
+           ('25','sveta.sever@gmail.com','sveta','sever','lukichna',	'city25'),
+           ('26','tolya.kabak@gmail.com','tolya','kabak','orestovich','city26'),
+           ('27','joni.cage@gmail.com',	'joni',	'cage',	'petrovich','city27'),
+           ('28','tom.holland@gmail.com','tom',	'holland','zaharobich','city28'),
+           ('29','makar.vinchester@gmail.com','makar','vinchester','romanovich','city29'),
+           ('30','lesha.popovich@gmail.com',	'lesha','popovich',	'grigorevich',	'city30');
 
 
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('28','tom.holland@gmail.com','tom',	'holland','zaharobich','city28'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('29','makar.vinchester@gmail.com','makar','vinchester','romanovich','city29'
-);
-
-INSERT INTO potential_customers (id, email, name, surname, second_name, city)
-    VALUES('30','lesha.popovich@gmail.com',	'lesha','popovich',	'grigorevich',	'city30'
-);
 --output email and name from potential_user and user from city 17
 SELECT first_name, email
 FROM product.public.users
