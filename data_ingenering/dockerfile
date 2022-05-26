@@ -1,0 +1,7 @@
+FROM python:3.8
+MAINTAINER kolya.shvechikov.89@gmail.com
+WORKDIR app
+COPY . .
+RUN python3 -m pip install --upgrade pip
+RUN pip install -r requirements.txt
+CMD ["python","de_covid.py"]
