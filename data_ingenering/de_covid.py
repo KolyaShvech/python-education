@@ -4,7 +4,6 @@ import boto3
 import pandas as pd
 import sqlalchemy
 
-
 BUCKET_NAME = "test_data"
 HEADERS = ['Date of notification', 'Country of reference', 'Code of the Region',
                 'Name of the Region', 'Code of the Province', 'Name of the Provine',
@@ -28,16 +27,16 @@ def read_csv_file():
         yield df
 
 
-def write_db():
+def write_db(test_buckets=None):
     """
     Create function write to csv file. Use sqlalchemy.
     """
     post_ges = os.environ.get("POSTGRES_USER")
     password = os.environ.get("POSTGRES_PASSWORD")
     engine = sqlalchemy.create_engine(f'postgresql://{post_ges}:{password}@localhost/postgres')
-    print(engine)
-    for file in read_csv_file():
-        file.to_sql('Covid italy', con=engine, if_exists='append')
+    files = test_buckets.objects.all()
+    data = pd.concat(map(read_csv_file, files), ignore_index=True)
+    data.to_sql('Covid italy', con=engine, if_exists='append')
 
 
 if __name__ == "__main__":
