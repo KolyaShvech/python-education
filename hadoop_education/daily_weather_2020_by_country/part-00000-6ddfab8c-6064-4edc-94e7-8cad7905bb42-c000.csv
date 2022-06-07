@@ -1,0 +1,704 @@
+Country/Region,icon,count
+Suriname,cloudy,3
+Antigua and Barbuda,partly-cloudy-day,7
+Honduras,partly-cloudy-day,29
+Iran,partly-cloudy-day,30
+Japan,snow,9
+Argentina,wind,4
+Germany,wind,1
+Mexico,wind,6
+Moldova,partly-cloudy-day,53
+Belarus,wind,5
+Estonia,snow,13
+Norway,cloudy,8
+Poland,wind,6
+Bangladesh,partly-cloudy-day,23
+Congo (Kinshasa),clear-day,1
+Lebanon,cloudy,1
+Poland,cloudy,6
+US,wind,105
+French Guiana,partly-cloudy-day,31
+Greece,cloudy,3
+"Gambia, The",clear-day,52
+Indonesia,rain,110
+Spain,partly-cloudy-day,34
+Bolivia,clear-day,12
+Egypt,clear-day,91
+Iraq,rain,17
+Monaco,partly-cloudy-day,45
+Denmark,wind,2
+Equatorial Guinea,cloudy,1
+Colombia,rain,102
+Nepal,cloudy,1
+North Macedonia,clear-day,42
+Chile,partly-cloudy-day,24
+Guinea,clear-day,46
+Mexico,rain,14
+Morocco,partly-cloudy-day,42
+Sudan,partly-cloudy-day,38
+Trinidad and Tobago,rain,45
+Belarus,rain,38
+Guernsey,clear-day,17
+Italy,clear-day,48
+Republic of the Congo,clear-day,2
+Slovenia,partly-cloudy-day,37
+Tunisia,partly-cloudy-day,42
+US,rain,2138
+Belarus,clear-day,14
+"Gambia, The",partly-cloudy-day,54
+Liechtenstein,clear-day,28
+Sweden,cloudy,3
+The Bahamas,wind,2
+Argentina,partly-cloudy-day,22
+Congo (Kinshasa),partly-cloudy-day,28
+Pakistan,partly-cloudy-day,29
+Congo (Brazzaville),clear-day,1
+Congo (Kinshasa),rain,79
+United Kingdom,wind,13
+Mauritius,clear-day,19
+Philippines,cloudy,1
+Puerto Rico,rain,100
+Ukraine,partly-cloudy-day,49
+Brazil,rain,104
+Norway,rain,14
+Turkey,clear-day,26
+Gabon,partly-cloudy-day,9
+Guyana,cloudy,2
+Poland,clear-day,20
+Sri Lanka,clear-day,15
+Dominican Republic,partly-cloudy-day,11
+Kazakhstan,snow,11
+Monaco,clear-day,38
+Tanzania,rain,100
+Belgium,clear-day,28
+Malaysia,cloudy,4
+Rwanda,cloudy,5
+Azerbaijan,partly-cloudy-day,42
+Latvia,snow,8
+Rwanda,rain,96
+Switzerland,snow,22
+Venezuela,clear-day,27
+Armenia,snow,54
+Barbados,partly-cloudy-day,38
+Estonia,cloudy,2
+Aruba,partly-cloudy-day,41
+China,fog,2
+Romania,cloudy,7
+Belarus,cloudy,7
+Finland,rain,30
+"Gambia, The",cloudy,6
+United Arab Emirates,clear-day,75
+Iceland,partly-cloudy-day,22
+Oman,clear-day,76
+Poland,partly-cloudy-day,29
+Slovakia,wind,1
+Sweden,clear-day,14
+Ukraine,clear-day,26
+Belgium,partly-cloudy-day,23
+Canada,partly-cloudy-day,417
+Colombia,clear-day,5
+Eswatini,rain,52
+Eswatini,cloudy,2
+Republic of the Congo,partly-cloudy-day,26
+Belgium,rain,56
+Egypt,wind,2
+Iceland,wind,7
+Romania,clear-day,24
+Lithuania,snow,4
+Australia,wind,10
+Bulgaria,cloudy,4
+Estonia,clear-day,14
+Nepal,rain,33
+Turkey,cloudy,7
+Zambia,cloudy,2
+Croatia,partly-cloudy-day,36
+Philippines,partly-cloudy-day,22
+Taiwan*,cloudy,1
+Venezuela,partly-cloudy-day,36
+Colombia,partly-cloudy-day,5
+Cruise Ship,clear-day,24
+Kazakhstan,rain,7
+Canada,cloudy,42
+New Zealand,wind,2
+Oman,partly-cloudy-day,33
+Taiwan*,rain,44
+Tunisia,cloudy,2
+China,clear-day,837
+Jersey,clear-day,20
+New Zealand,rain,42
+Uzbekistan,partly-cloudy-day,47
+Liechtenstein,snow,47
+Martinique,clear-day,31
+Zambia,rain,71
+Iran,clear-day,57
+Kyrgyzstan,clear-day,20
+Poland,snow,3
+Puerto Rico,clear-day,5
+Benin,rain,16
+Namibia,rain,28
+Brazil,clear-day,4
+Japan,rain,33
+Liberia,rain,62
+Mayotte,cloudy,1
+Nepal,clear-day,60
+Oman,rain,2
+Bulgaria,snow,28
+Cyprus,partly-cloudy-day,29
+Luxembourg,wind,1
+India,clear-day,70
+Liberia,cloudy,1
+Monaco,rain,20
+Ecuador,rain,112
+Iceland,rain,9
+Canada,rain,150
+Montenegro,wind,2
+Spain,cloudy,9
+Azerbaijan,cloudy,6
+Luxembourg,snow,1
+Iran,rain,7
+Jordan,partly-cloudy-day,37
+Kyrgyzstan,partly-cloudy-day,58
+Malta,wind,2
+Montenegro,clear-day,50
+The Bahamas,clear-day,68
+Algeria,clear-day,77
+Denmark,clear-day,22
+Georgia,rain,48
+Pakistan,rain,22
+Switzerland,rain,28
+Moldova,snow,2
+Bulgaria,clear-day,35
+Guernsey,partly-cloudy-day,23
+Monaco,cloudy,5
+United Kingdom,snow,14
+Nigeria,clear-day,41
+Congo (Brazzaville),rain,79
+Saudi Arabia,partly-cloudy-day,30
+Singapore,cloudy,1
+Tanzania,cloudy,1
+Congo (Brazzaville),cloudy,4
+Guatemala,partly-cloudy-day,7
+Namibia,partly-cloudy-day,33
+Ethiopia,rain,37
+Ethiopia,cloudy,1
+Iraq,clear-day,52
+Japan,partly-cloudy-day,36
+Kenya,cloudy,3
+Japan,clear-day,29
+Puerto Rico,partly-cloudy-day,7
+Sweden,wind,12
+Central African Republic,rain,11
+Guam,rain,70
+Jordan,clear-day,57
+Portugal,rain,39
+Qatar,cloudy,5
+Russia,partly-cloudy-day,16
+French Guiana,cloudy,3
+Ghana,partly-cloudy-day,41
+New Zealand,clear-day,23
+Sudan,wind,1
+United Arab Emirates,wind,1
+Israel,rain,25
+Portugal,partly-cloudy-day,21
+Austria,partly-cloudy-day,32
+Greenland,snow,30
+Seychelles,clear-day,7
+Tunisia,rain,7
+Andorra,cloudy,8
+Latvia,partly-cloudy-day,19
+Togo,clear-day,43
+Afghanistan,cloudy,6
+France,cloudy,17
+Holy See,rain,30
+Mayotte,rain,87
+Nigeria,rain,9
+Somalia,clear-day,21
+Ukraine,cloudy,7
+United Arab Emirates,partly-cloudy-day,23
+Andorra,clear-day,23
+Belgium,cloudy,3
+China,partly-cloudy-day,1134
+Finland,fog,1
+Mauritius,partly-cloudy-day,15
+Philippines,rain,59
+Togo,cloudy,4
+Mauritius,rain,78
+Reunion,rain,90
+Canada,fog,22
+Ethiopia,partly-cloudy-day,46
+Iraq,cloudy,6
+Lithuania,wind,1
+United Kingdom,cloudy,10
+Bhutan,rain,68
+Brunei,partly-cloudy-day,12
+Burkina Faso,clear-day,52
+Burkina Faso,partly-cloudy-day,48
+France,clear-day,161
+Jamaica,rain,57
+Suriname,partly-cloudy-day,38
+Bahrain,clear-day,65
+Georgia,cloudy,5
+Brazil,cloudy,1
+The Gambia,cloudy,10
+Barbados,cloudy,2
+The Gambia,partly-cloudy-day,39
+Cyprus,wind,1
+Guatemala,clear-day,51
+Russia,cloudy,19
+Trinidad and Tobago,cloudy,5
+Algeria,wind,4
+"Korea, South",clear-day,39
+Monaco,wind,4
+Uzbekistan,wind,4
+Luxembourg,clear-day,28
+Azerbaijan,clear-day,30
+Barbados,clear-day,31
+Japan,cloudy,5
+Lithuania,rain,58
+Senegal,clear-day,52
+Antigua and Barbuda,clear-day,47
+Central African Republic,partly-cloudy-day,64
+Cruise Ship,wind,1
+Lebanon,partly-cloudy-day,29
+Saint Lucia,partly-cloudy-day,16
+Sudan,clear-day,73
+Tunisia,clear-day,56
+Cuba,rain,35
+Latvia,rain,69
+The Bahamas,partly-cloudy-day,7
+Uruguay,rain,25
+Belarus,partly-cloudy-day,31
+Italy,wind,1
+Mexico,clear-day,49
+Cambodia,rain,16
+Greenland,partly-cloudy-day,45
+Hungary,wind,3
+Liechtenstein,rain,8
+Argentina,clear-day,64
+Belarus,snow,17
+China,cloudy,251
+Guam,partly-cloudy-day,36
+Sri Lanka,cloudy,9
+Guinea,partly-cloudy-day,48
+Saint Lucia,rain,56
+Hungary,clear-day,37
+Moldova,clear-day,23
+Mongolia,partly-cloudy-day,38
+Netherlands,wind,2
+Senegal,wind,1
+Ethiopia,clear-day,28
+Qatar,clear-day,72
+The Bahamas,rain,35
+US,clear-day,1884
+China,rain,880
+Afghanistan,snow,2
+Bosnia and Herzegovina,cloudy,4
+Guatemala,rain,54
+Guernsey,rain,62
+Holy See,partly-cloudy-day,34
+Mongolia,snow,6
+Norway,clear-day,18
+Panama,clear-day,1
+Slovakia,partly-cloudy-day,38
+Bulgaria,wind,1
+Moldova,rain,25
+Mongolia,wind,2
+Portugal,wind,2
+Saudi Arabia,rain,3
+Venezuela,rain,49
+Argentina,rain,22
+Guyana,rain,64
+Mongolia,clear-day,61
+Romania,rain,26
+South Africa,clear-day,66
+Thailand,rain,20
+Trinidad and Tobago,clear-day,13
+Ukraine,rain,23
+Austria,clear-day,26
+Benin,clear-day,47
+Finland,partly-cloudy-day,17
+Greenland,cloudy,1
+Liberia,partly-cloudy-day,32
+Australia,cloudy,44
+Suriname,clear-day,2
+Austria,snow,17
+Finland,clear-day,16
+Bosnia and Herzegovina,partly-cloudy-day,31
+France,wind,2
+Philippines,clear-day,30
+San Marino,rain,27
+Chile,clear-day,84
+Cote d'Ivoire,cloudy,4
+Liberia,clear-day,17
+Maldives,partly-cloudy-day,49
+Albania,partly-cloudy-day,17
+Djibouti,rain,19
+Iran,snow,1
+Ireland,cloudy,5
+North Macedonia,partly-cloudy-day,30
+Panama,partly-cloudy-day,14
+Austria,cloudy,5
+Ghana,cloudy,4
+Iran,wind,12
+Turkey,wind,1
+Cyprus,clear-day,39
+Egypt,cloudy,1
+Guinea,cloudy,5
+Italy,partly-cloudy-day,28
+Switzerland,partly-cloudy-day,28
+Cote d'Ivoire,rain,32
+Peru,rain,106
+Burkina Faso,rain,3
+Belgium,wind,2
+Ireland,partly-cloudy-day,22
+Montenegro,cloudy,2
+Poland,rain,48
+Singapore,clear-day,4
+Kazakhstan,partly-cloudy-day,41
+Lithuania,clear-day,16
+Ireland,rain,80
+Jordan,cloudy,1
+Luxembourg,cloudy,2
+Serbia,snow,5
+Seychelles,rain,74
+Netherlands,cloudy,2
+South Africa,rain,14
+Vietnam,rain,59
+Bangladesh,clear-day,70
+Jamaica,clear-day,32
+Australia,partly-cloudy-day,282
+Albania,cloudy,2
+French Guiana,clear-day,1
+Maldives,clear-day,14
+Bosnia and Herzegovina,snow,37
+Gabon,rain,102
+Germany,snow,4
+Jersey,wind,5
+Liechtenstein,partly-cloudy-day,27
+Mauritania,partly-cloudy-day,37
+Panama,rain,97
+Serbia,rain,25
+Togo,partly-cloudy-day,38
+Uzbekistan,rain,16
+Azerbaijan,wind,3
+Croatia,cloudy,4
+Equatorial Guinea,rain,105
+Jordan,wind,2
+Kuwait,partly-cloudy-day,22
+Tunisia,wind,5
+Vietnam,cloudy,2
+Benin,partly-cloudy-day,40
+Norway,wind,9
+Saint Vincent and the Grenadines,partly-cloudy-day,31
+Zambia,partly-cloudy-day,23
+Bahrain,cloudy,5
+Lebanon,rain,53
+Bolivia,rain,82
+Croatia,wind,2
+Greece,partly-cloudy-day,30
+Holy See,wind,2
+Israel,partly-cloudy-day,34
+"Korea, South",wind,3
+Rwanda,partly-cloudy-day,10
+China,snow,96
+Liechtenstein,cloudy,2
+Australia,snow,1
+Canada,clear-day,240
+Jersey,rain,66
+Qatar,partly-cloudy-day,25
+Sri Lanka,rain,52
+Cuba,partly-cloudy-day,33
+Hungary,snow,2
+Sweden,partly-cloudy-day,32
+Togo,rain,27
+Bosnia and Herzegovina,clear-day,38
+Algeria,rain,2
+Tanzania,partly-cloudy-day,9
+Brazil,partly-cloudy-day,3
+Kuwait,cloudy,7
+Mexico,cloudy,1
+Slovakia,rain,11
+Cote d'Ivoire,clear-day,40
+Egypt,partly-cloudy-day,17
+Lebanon,clear-day,24
+Lithuania,partly-cloudy-day,27
+Switzerland,clear-day,30
+US,partly-cloudy-day,1459
+Qatar,rain,10
+Central African Republic,cloudy,9
+Greece,clear-day,40
+Kenya,partly-cloudy-day,16
+Pakistan,cloudy,1
+Algeria,cloudy,4
+Azerbaijan,rain,31
+Bulgaria,rain,10
+Trinidad and Tobago,partly-cloudy-day,49
+United Kingdom,rain,248
+Bolivia,cloudy,1
+Ghana,clear-day,41
+Morocco,cloudy,2
+Paraguay,clear-day,39
+Ukraine,snow,5
+Zambia,clear-day,16
+Bulgaria,partly-cloudy-day,34
+Chile,rain,1
+Jersey,cloudy,3
+Kuwait,rain,10
+Moldova,cloudy,8
+Peru,partly-cloudy-day,3
+Bhutan,partly-cloudy-day,30
+Ireland,clear-day,5
+New Zealand,cloudy,7
+Singapore,rain,77
+Armenia,clear-day,21
+French Guiana,rain,77
+Iran,cloudy,5
+Somalia,cloudy,4
+Suriname,rain,69
+Uzbekistan,snow,3
+Central African Republic,clear-day,28
+Greenland,wind,13
+Moldova,wind,1
+Turkey,partly-cloudy-day,38
+Italy,cloudy,8
+San Marino,clear-day,43
+Slovenia,snow,1
+Sweden,snow,30
+Turkey,rain,23
+Estonia,rain,58
+Germany,cloudy,5
+Indonesia,partly-cloudy-day,2
+Luxembourg,partly-cloudy-day,24
+Thailand,partly-cloudy-day,40
+Andorra,rain,40
+Cote d'Ivoire,partly-cloudy-day,36
+Latvia,clear-day,15
+Republic of the Congo,rain,84
+United Arab Emirates,rain,9
+Brunei,cloudy,6
+Denmark,partly-cloudy-day,28
+Iraq,partly-cloudy-day,33
+Italy,rain,27
+Namibia,clear-day,50
+Singapore,partly-cloudy-day,30
+Thailand,cloudy,5
+Barbados,rain,41
+Djibouti,cloudy,4
+Hungary,partly-cloudy-day,40
+Kazakhstan,wind,7
+Cuba,clear-day,44
+Denmark,cloudy,7
+Eswatini,clear-day,30
+Rwanda,clear-day,1
+Denmark,rain,146
+Kyrgyzstan,snow,7
+Vietnam,partly-cloudy-day,37
+Malta,cloudy,1
+Serbia,partly-cloudy-day,41
+Antigua and Barbuda,wind,1
+Georgia,clear-day,25
+Holy See,clear-day,44
+Iceland,cloudy,1
+Nigeria,cloudy,8
+Aruba,rain,22
+Eswatini,partly-cloudy-day,28
+Canada,snow,223
+Guadeloupe,clear-day,25
+Taiwan*,partly-cloudy-day,31
+Guyana,partly-cloudy-day,40
+Uzbekistan,cloudy,11
+Cruise Ship,partly-cloudy-day,33
+Cyprus,cloudy,1
+Djibouti,clear-day,29
+Cambodia,cloudy,2
+Luxembourg,rain,56
+Maldives,cloudy,4
+Morocco,clear-day,51
+Saint Vincent and the Grenadines,clear-day,46
+Aruba,clear-day,49
+Kazakhstan,cloudy,24
+Romania,partly-cloudy-day,40
+South Africa,partly-cloudy-day,32
+Cruise Ship,cloudy,4
+Honduras,clear-day,23
+Morocco,rain,17
+Senegal,partly-cloudy-day,52
+US,fog,5
+Armenia,partly-cloudy-day,33
+Mongolia,cloudy,5
+Spain,clear-day,30
+Bosnia and Herzegovina,rain,1
+Croatia,rain,21
+Reunion,partly-cloudy-day,13
+Somalia,partly-cloudy-day,76
+Malta,clear-day,51
+Montenegro,partly-cloudy-day,17
+Afghanistan,partly-cloudy-day,27
+Dominican Republic,clear-day,12
+Guernsey,wind,10
+Reunion,cloudy,3
+Malta,partly-cloudy-day,34
+Netherlands,partly-cloudy-day,111
+Djibouti,partly-cloudy-day,60
+Jamaica,partly-cloudy-day,23
+Russia,clear-day,9
+Switzerland,cloudy,4
+Antigua and Barbuda,rain,57
+Burkina Faso,cloudy,9
+San Marino,wind,6
+Slovakia,clear-day,33
+US,cloudy,109
+Lithuania,cloudy,6
+Bolivia,partly-cloudy-day,17
+Croatia,clear-day,37
+France,partly-cloudy-day,153
+Guam,clear-day,6
+Nigeria,partly-cloudy-day,54
+Germany,rain,56
+Kyrgyzstan,rain,9
+Norway,partly-cloudy-day,40
+Serbia,wind,1
+Slovakia,cloudy,8
+Croatia,snow,12
+Guyana,clear-day,6
+"Korea, South",partly-cloudy-day,33
+Albania,rain,49
+Lebanon,snow,5
+Bangladesh,rain,19
+Georgia,partly-cloudy-day,34
+Paraguay,rain,42
+Tanzania,clear-day,2
+Bahrain,partly-cloudy-day,27
+Bosnia and Herzegovina,wind,1
+India,partly-cloudy-day,35
+Sweden,rain,21
+India,rain,7
+Kazakhstan,clear-day,22
+Kuwait,clear-day,73
+Germany,clear-day,23
+Kenya,rain,89
+Martinique,partly-cloudy-day,17
+Romania,snow,15
+Saint Lucia,clear-day,40
+Afghanistan,rain,37
+Bahrain,wind,5
+Slovenia,rain,33
+Slovenia,wind,1
+Armenia,cloudy,4
+Chile,cloudy,3
+Egypt,rain,1
+Nepal,partly-cloudy-day,18
+San Marino,snow,2
+Cruise Ship,rain,50
+Equatorial Guinea,clear-day,1
+"Korea, South",snow,1
+US,snow,572
+"Korea, South",cloudy,7
+Afghanistan,clear-day,40
+Dominican Republic,rain,89
+Estonia,partly-cloudy-day,25
+Spain,rain,35
+Australia,rain,424
+Canada,wind,26
+Russia,fog,10
+Uzbekistan,clear-day,31
+Brunei,rain,93
+Germany,partly-cloudy-day,23
+Israel,clear-day,53
+Kenya,clear-day,4
+Pakistan,clear-day,60
+Congo (Kinshasa),cloudy,4
+Malaysia,rain,105
+Finland,snow,38
+France,rain,563
+Jordan,rain,15
+Mauritania,clear-day,70
+Paraguay,partly-cloudy-day,31
+United Kingdom,partly-cloudy-day,115
+United Kingdom,clear-day,160
+Andorra,partly-cloudy-day,41
+Hungary,rain,23
+Algeria,partly-cloudy-day,25
+Bahrain,rain,10
+China,wind,48
+Jersey,partly-cloudy-day,18
+Mexico,partly-cloudy-day,42
+North Macedonia,cloudy,1
+Denmark,snow,19
+Maldives,rain,45
+Ukraine,wind,2
+Albania,clear-day,44
+The Gambia,clear-day,63
+Cambodia,partly-cloudy-day,60
+Malaysia,partly-cloudy-day,3
+Martinique,rain,64
+Oman,cloudy,1
+Peru,clear-day,2
+Saint Vincent and the Grenadines,rain,35
+Saudi Arabia,clear-day,74
+Hungary,cloudy,7
+Mayotte,partly-cloudy-day,17
+United Arab Emirates,cloudy,4
+Costa Rica,rain,108
+Mayotte,clear-day,7
+Somalia,rain,11
+Costa Rica,partly-cloudy-day,4
+Greece,snow,2
+Guinea,rain,13
+Mauritania,cloudy,3
+Saudi Arabia,cloudy,5
+Brunei,clear-day,1
+Norway,snow,23
+Peru,cloudy,1
+San Marino,cloudy,3
+Serbia,cloudy,6
+Thailand,clear-day,47
+Guadeloupe,partly-cloudy-day,14
+Taiwan*,clear-day,36
+Greenland,clear-day,12
+Holy See,cloudy,2
+Russia,snow,53
+Serbia,clear-day,34
+Vietnam,clear-day,14
+Bhutan,clear-day,14
+Latvia,wind,1
+Montenegro,rain,41
+New Zealand,partly-cloudy-day,38
+Senegal,cloudy,7
+Uruguay,partly-cloudy-day,23
+Greenland,fog,11
+Guadeloupe,rain,73
+Iraq,wind,4
+"Korea, South",rain,29
+Namibia,cloudy,1
+Portugal,cloudy,9
+Gabon,cloudy,1
+Greece,rain,37
+Australia,clear-day,247
+Slovenia,clear-day,40
+Uruguay,clear-day,64
+Benin,cloudy,9
+Congo (Brazzaville),partly-cloudy-day,28
+Equatorial Guinea,partly-cloudy-day,5
+Ghana,rain,26
+Russia,rain,5
+Kyrgyzstan,cloudy,18
+Portugal,clear-day,41
+Austria,rain,32
+Cambodia,clear-day,34
+Finland,cloudy,10
+Malta,rain,24
+Netherlands,rain,110
+Slovakia,snow,21
+Iceland,snow,73
+Reunion,clear-day,6
+Sri Lanka,partly-cloudy-day,36
+Turkey,snow,17
+Cyprus,rain,42
+Honduras,rain,60
+Netherlands,clear-day,111
+North Macedonia,rain,39
+Spain,wind,4
+Mauritania,wind,2
+San Marino,partly-cloudy-day,31
+Seychelles,partly-cloudy-day,31
