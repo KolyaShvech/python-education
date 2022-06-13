@@ -3,12 +3,6 @@ from pyspark.sql import SparkSession, DataFrame
 import films_imdb.films_functions_spark.function_films.function_imdb3
 
 
-@pytest.fixture(scope="session")
-def spark_session():
-    spark = SparkSession.builder.master("local[*]").appName("test_films3").getOrCreate()
-    return spark
-
-
 def test_best_films_by_genres_2020th(spark_session):
 
     # Set up test column

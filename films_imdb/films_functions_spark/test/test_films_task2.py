@@ -3,12 +3,6 @@ from pyspark.sql import SparkSession, DataFrame
 import films_imdb.films_functions_spark.function_films.function_imdb2
 
 
-# Get one spark session for the whole test session
-@pytest.fixture(scope="session")
-def spark():
-    return SparkSession.builder.getOrCreate()
-
-
 def test_genres_best_films(spark_session):
 
     # Set up test column
@@ -36,7 +30,7 @@ def test_genres_best_films(spark_session):
 
     df: DataFrame = spark_session.createDataFrame(df_data, df_column)
 
-    expected_df: DataFrame = spark.createDataFrame(expected_data, expected_column)
+    expected_df: DataFrame = spark_session.createDataFrame(expected_data, expected_column)
 
     genres = films_imdb.films_functions_spark.function_films.function_imdb2.genres_best_films(df)
 
@@ -71,7 +65,7 @@ def test_last_10_years(spark_session):
 
     df: DataFrame = spark_session.createDataFrame(df_data, df_column)
 
-    expected_df: DataFrame = spark.createDataFrame(expected_data, expected_column)
+    expected_df: DataFrame = spark_session.createDataFrame(expected_data, expected_column)
 
     last_10_years = films_imdb.films_functions_spark.function_films.function_imdb2.last_10_years(df)
 
@@ -80,7 +74,7 @@ def test_last_10_years(spark_session):
 
     assert last_rows == expected_rows
 
-def test_best_genres_1960(spark):
+def test_best_genres_1960(spark_session):
 
     # Set up test column
     df_column = ["tconst", "titleType", "primaryTitle", "numVotes", "averageRating", "startYear", "genres"]
@@ -99,8 +93,8 @@ def test_best_genres_1960(spark):
 
     expected_data = [["tt0064116", "movie", "Once Upon a Time in the West", 323645, 8.5, 1968, "Western"]]
 
-    df: DataFrame = spark.createDataFrame(df_data, df_column)
-    expected_df: DataFrame = spark.createDataFrame(expected_data, expected_column)
+    df: DataFrame = spark_session.createDataFrame(df_data, df_column)
+    expected_df: DataFrame = spark_session.createDataFrame(expected_data, expected_column)
 
     best_genres_1960 = films_imdb.films_functions_spark.function_films.function_imdb2.genres_best_films_in_1960th(df)
 
