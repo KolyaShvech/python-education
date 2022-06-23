@@ -90,6 +90,7 @@ def get_spark_session() -> SparkSession:
 def get_data_files(s3_connection, bucket_name):
     """Function return json files"""
     json_files = []
+
     bucket = s3_connection.Bucket(bucket_name)
     for file_object in bucket.objects.all():
         json_files.append(file_object.get()['Body'].read().decode('utf-8'))
@@ -97,7 +98,7 @@ def get_data_files(s3_connection, bucket_name):
 
 
 def get_dataframe_from_data_files(spark, data_files):
-    """Func get files and make dataframe"""
+    """ Func get dataframe from data files."""
     if len(data_files) < 1:
         return None
 
@@ -110,6 +111,7 @@ def get_dataframe_from_data_files(spark, data_files):
 
 
 def transform_dataframe(dataframe: DataFrame) -> DataFrame:
+    """ Func transform dataframe in needing table. """
     dataframe = (dataframe.select("id", "imdb_id", "adult", "original_language",
                                   "original_title", "popularity", "release_date",
                                     posexplode("genres").
@@ -118,12 +120,13 @@ def transform_dataframe(dataframe: DataFrame) -> DataFrame:
                                  "original_title", "popularity", "release_date",
                                  col("genre.name").alias("genre"))
     dataframe = (dataframe
-                 .withColumn("average_rating", lit(0).cast(DoubleType()))
-                 .withColumn("num_votes", lit(0).cast(IntegerType())))
+                 .withColumn("averageRating", lit(0).cast(DoubleType()))
+                 .withColumn("numVotes", lit(0).cast(IntegerType())))
     return dataframe
 
 
 def save_dataframe_to_db(db_connection, dataframe: DataFrame):
+    """ Func save dataframe to database. """
     dataframe.toPandas().to_sql('movies', db_connection,
                                 index=False, if_exists='append')
     del dataframe

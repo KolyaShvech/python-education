@@ -5,7 +5,7 @@ from os import environ
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.utils.dates import datetime
-
+from manage.manage_buckets import create_bucket
 from jobs.safe_movies_s3_job import save_movies_to_bucket
 
 
@@ -23,7 +23,7 @@ default_args = {
 
 with DAG("save_movies_s3_dag", default_args=default_args,
          schedule_interval="@once", catchup=False) as dag:
-    from manage.manage_buckets import create_bucket
+
     bucket_name = environ.get("MINIO_RAW_DATA_BUCKET_NAME")
     bucket_create_operator = PythonOperator(
         task_id='create_range_bucket',

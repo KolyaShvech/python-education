@@ -11,7 +11,7 @@ import requests
 from botocore.config import Config
 from requests.exceptions import RequestException
 
-DEFAULT_START_DATE = "2022-01-01"
+DEFAULT_START_DATE = "2022-03-01"
 
 
 def get_s3_connection():
